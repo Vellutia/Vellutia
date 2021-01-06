@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonathan 👋
 
-## I'm a fresh graduate looking for job!
+[//]: # (## I'm a fresh graduate looking for job!)
 - I’m currently learning Js and Flutter
 
 ### Connect with me:
