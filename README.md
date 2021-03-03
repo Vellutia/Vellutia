@@ -33,6 +33,4 @@
 
 [stackoverflow]: https://stackoverflow.com/users/12402503/federick-jonathan
 [linkedin]: https://www.linkedin.com/in/federick-jonathan-645283b0/
-[//]: # ([youtube]: https://www.youtube.com/channel/UCYMLkwujyNZvXquvSisEKiw)
-[//]: # ([twitter]: https://twitter.com/jojo0812jojo)
 [instagram]: https://www.instagram.com/ef_jonathan/
