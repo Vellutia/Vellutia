@@ -8,8 +8,6 @@
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[//]: # ([<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube])
-[//]: # ([<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter])
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -33,6 +31,4 @@
 
 [stackoverflow]: https://stackoverflow.com/users/12402503/federick-jonathan
 [linkedin]: https://www.linkedin.com/in/federick-jonathan-645283b0/
-[//]: # ([youtube]: https://www.youtube.com/channel/UCYMLkwujyNZvXquvSisEKiw)
-[//]: # ([twitter]: https://twitter.com/jojo0812jojo)
 [instagram]: https://www.instagram.com/ef_jonathan/
