@@ -1,8 +1,8 @@
 ### Hi there, I'm Jonathan 👋
 
 [//]: # (## I'm a fresh graduate looking for job!)
-- I’m currently learning Js and Flutter
-- Currently working on some Golang and Python projects
+- I’m currently learning Java
+- And currently working on Java and Js projects
 
 ### Connect with me:
 
