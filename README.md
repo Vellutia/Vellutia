@@ -15,8 +15,6 @@
 
 ### Current Languages and Tools:
 
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/Vellutia/Vellutia/main/asset/dart_2.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/Vellutia/Vellutia/main/asset/flutter.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -29,6 +27,8 @@
 
 ### Had Worked with:
 
+<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/Vellutia/Vellutia/main/asset/dart_2.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/Vellutia/Vellutia/main/asset/flutter.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 
