@@ -1,15 +1,15 @@
 ### Hi there, I'm Jonathan 👋
 - Currently learning Kotlin and Java the correct way
-- And... some TS projects
+- And... working on some TS projects
 
 [//]: # (## I'm a fresh graduate looking for job!)
 [//]: # (- I’m currently learning Java)
 [//]: # (- And currently working on Java and Js projects)
 
-### Connect with me:
+[//]: # (### Connect with me:)
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[//]: # ([<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow])
+[//]: # ([<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin])
 
 [//]: # ([<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram])
 
